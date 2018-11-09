@@ -3,7 +3,7 @@ This repository contains a detailed sample app that implements MVP architecture.
 
 The app basically fetch the NewYorkTimes Most view Articals and shows in UItableView.
 
-Prerequisites
+Prerequisites: 
 Xcode 9+
 iOS SDK 11
 Latest Xcode Build Tools
